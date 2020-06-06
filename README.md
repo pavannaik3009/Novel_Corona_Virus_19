@@ -26,4 +26,4 @@ COVID-19 is caused by a coronavirus called SARS-CoV-2. Older adults and people w
 
 <p align="center" ><img width="700" alt="Screen Shot 2019-11-24 at 1 40 23 AM" src="https://user-images.githubusercontent.com/43712046/83934214-b1d82980-a774-11ea-824c-6af756bc225a.png"></p>
 
-
+Had we not followed social distancing and other safety norms, number of cases would have increased as shown in the predicted graphs.
